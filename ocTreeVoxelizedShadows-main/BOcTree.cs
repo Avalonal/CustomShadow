@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
 
+
+//[ExecuteInEditMode]
 public class BOcTree : MonoBehaviour
 {
 

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+//[ExecuteInEditMode]
 public class VoxelizedShadow : MonoBehaviour {
 	public Shader drawShadow;
 	private Material drawMaterial;
